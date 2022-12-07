@@ -4,8 +4,6 @@ Imports System.Linq
 Imports System.Web.UI
 Imports System.Web.UI.WebControls
 Imports DevExpress.Web
-Imports DevExpress.Web.ASPxTabControl
-Imports DevExpress.Web.ASPxClasses
 
 Partial Public Class _Default
     Inherits Page

@@ -4,8 +4,6 @@ using System.Linq;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 using DevExpress.Web;
-using DevExpress.Web.ASPxTabControl;
-using DevExpress.Web.ASPxClasses;
 
 public partial class _Default : Page {
     private int LastIndex {

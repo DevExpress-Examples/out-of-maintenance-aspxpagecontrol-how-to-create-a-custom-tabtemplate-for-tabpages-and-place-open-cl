@@ -1,7 +1,5 @@
 ﻿Imports System.Web.UI
 Imports DevExpress.Web
-Imports DevExpress.Web.ASPxClasses
-Imports DevExpress.Web.ASPxEditors
 
 Public Class TabTemplate
     Implements ITemplate

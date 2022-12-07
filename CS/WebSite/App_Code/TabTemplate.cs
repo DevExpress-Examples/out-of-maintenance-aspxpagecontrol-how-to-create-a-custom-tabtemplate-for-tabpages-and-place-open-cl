@@ -1,7 +1,5 @@
 ﻿using System.Web.UI;
 using DevExpress.Web;
-using DevExpress.Web.ASPxClasses;
-using DevExpress.Web.ASPxEditors;
 
 public class TabTemplate : ITemplate {
     private int index;
